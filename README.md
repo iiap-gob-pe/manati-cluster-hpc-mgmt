@@ -7,11 +7,11 @@ Aquí encontrarás documentación y herramientas para la administración del sis
 
 ### 📜 **Índice**  
 
-1. [Acceso y Gestión de Usuarios](usuarios.md)  
-2. [Gestión de Colas de Trabajo](colas.md)  
-3. [Gestión de Almacenamiento](storage.md)  
-4. [Monitoreo del Clúster](monitoreo.md)  
-5. [Configuraciones Avanzadas](config.md)  
+1. [Acceso y Gestión de Usuarios](inicio/usuarios.md)  
+2. [Gestión de Colas de Trabajo](procesamiento/colas.md)  
+3. [Gestión de Almacenamiento](storage/storage.md)  
+4. [Monitoreo del Clúster](monitoreo/monitoreo.md)  
+5. [Configuraciones Avanzadas](otro/config.md)  
 
 ---
 
@@ -48,6 +48,3 @@ Este proyecto está bajo la licencia **MIT**.
 📢 **Para más información, revisa cada sección del menú. 🚀**  
 
 ---
-
-Esto organizará la documentación de forma clara y escalable.  
-¿Te gustaría personalizarlo más o agregar alguna sección extra? 😊
